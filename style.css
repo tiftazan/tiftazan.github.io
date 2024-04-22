@@ -1,0 +1,16 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #aad8a4;
+}
+
+#projects {
+  background-color: #aad8a4;
+}
+
+.lead {
+  font-weight: bold;
+}
+
+section {
+  padding-top: 5rem;
+}
